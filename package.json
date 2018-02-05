@@ -1,0 +1,17 @@
+{
+  "name": "xenoblade-element-combo",
+  "version": "1.0.0",
+  "description": "Find the root from the blades",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xenoblade"
+  ],
+  "author": "Varit Asawavetvutt",
+  "license": "ISC",
+  "dependencies": {
+    "array-unique": "^0.3.2"
+  }
+}
