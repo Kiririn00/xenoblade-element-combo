@@ -2,7 +2,7 @@
 ## Installation
 
 ``` bash
-$ npm install Find the root from the blades --save
+on working
 ```
 
 ## Usage
