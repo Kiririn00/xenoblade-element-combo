@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "title": "elements lists",
+  "type": "object",
+  "properties": {
+    "element_code": {
+      "type": "integer"
+    },
+    "element_name":{
+      "type": "integer"
+    }
+  },
+  "required": ["element_code", "element_name"]
+}

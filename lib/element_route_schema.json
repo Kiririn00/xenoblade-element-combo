@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "title": "elements route",
+  "type": "object",
+  "properties": {
+    "first_element_code": {
+      "type": "integer"
+    },
+    "second_element_code":{
+      "type": "integer"
+    },
+    "third_element_code":{
+      "type": "integer"
+    }
+  },
+  "required": ["first_element_code", "second_element_code", "third_element_code"]
+}
