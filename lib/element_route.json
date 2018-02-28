@@ -1,6 +1,5 @@
 {
-  "note":"Key in this json file mean the first node of the elements route.
-  The index of value array of element key is posibility route of that element.",
+  "note":"Key in this json file mean the first node of the elements route.The index of value array of element key is posibility route of that element.",
   "0":[
     {
       "step2":[0],
